@@ -7,6 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jabalpureishan/jabalpureishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
