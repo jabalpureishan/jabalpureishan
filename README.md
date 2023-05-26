@@ -9,9 +9,9 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 [![wakatime](https://wakatime.com/badge/jabalpureishan/c70fdce2-c8bc-46cf-b8bf-035136cb4535.svg)](https://wakatime.com/@c70fdce2-c8bc-46cf-b8bf-035136cb4535)
-
+-->
 
 <!--
 **jabalpureishan/jabalpureishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
