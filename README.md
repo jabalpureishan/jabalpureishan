@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&theme=radical&hide=prs,issues,contribs&rank_icon=github) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jabalpureishan&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&layout=Demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&layout=Demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=jabalpureishan&color=blueviolet)   [![wakatime](https://wakatime.com/badge/user/c70fdce2-c8bc-46cf-b8bf-035136cb4535.svg)](https://wakatime.com/@c70fdce2-c8bc-46cf-b8bf-035136cb4535)
 
