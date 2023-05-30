@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&theme=radical&rank_icon=github) [![GitHub Streak](https://streak-stats.demolab.com?user=jabalpureishan&theme=radical&card_width=440&type=png)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&theme=radical&rank_icon=github) [![GitHub Streak](https://streak-stats.demolab.com?user=jabalpureishan&theme=radical&card_width=430&type=png)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&layout=Demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                     [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&layout=Demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
