@@ -1,7 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Ishan Jabalpure</h1>
 <h3 align="center">A passionate Python developer, Competetive Coder from India</h3>
 
 ![](https://komarev.com/ghpvc/?username=jabalpureishan&color=blueviolet)   [![wakatime](https://wakatime.com/badge/user/c70fdce2-c8bc-46cf-b8bf-035136cb4535.svg)](https://wakatime.com/@c70fdce2-c8bc-46cf-b8bf-035136cb4535)
+
+<img align="right" src="https://github.com/jabalpureishan/jabalpureishan/blob/main/18181eb39eec9784db256e246954adba.gif" width="40%"/>
 
 - 🌱 I’m currently learning **Python, SQL, Django, CS Fundamentals**
 
