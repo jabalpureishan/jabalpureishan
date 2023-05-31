@@ -20,7 +20,7 @@
 
 <a href="https://wakatime.com"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/62b14de3-85f8-4fb8-a8da-eec29bc26975.png"/></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@jabalpureishan/66c8ba49-7059-4da8-a49c-012da0255025.png" width="400" height="300" border="0" /></a> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@jabalpureishan/6182d4ff-76bd-4330-9733-674b4bf89591.png" width="400" height="300" border="0" /></a>
+
 
 <!--
 **jabalpureishan/jabalpureishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
