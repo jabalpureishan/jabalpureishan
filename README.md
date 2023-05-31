@@ -24,22 +24,29 @@
 
 <br/>
 <p align="left">
-    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&theme=radical&rank_icon=github">
-    <img width="52%" src="https://streak-stats.demolab.com?user=jabalpureishan&theme=radical&card_width=495&type=png">		  
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&include_all_commits=true&theme=radical">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jabalpureishan&theme=radical">		  
+  </a>
 </p>
 <br>
+<p align="center">
+  <a href="http://torrinleonard.com/">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&layout=donut&theme=radical">
+    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&theme=radical&include_all_commits=true&count_private=true&layout=compact">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&layout=Demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                     [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&layout=Demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  </a>
+</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jabalpureishan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 
-<a href="https://wakatime.com"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/62b14de3-85f8-4fb8-a8da-eec29bc26975.png"/></a>
+<a href="https://wakatime.com"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/62b14de3-85f8-4fb8-a8da-eec29bc26975.png" width="1000" height="550" style="border:10px solid"/></a>
 
 
-
+<p align="center"><img src="https://profile-counter.glitch.me/{jabalpureishan}/count.svg"></p>
 <!--
 **jabalpureishan/jabalpureishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
