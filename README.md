@@ -5,8 +5,8 @@
 <br/>
 <p align="left">
   <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&theme=radical&rank_icon=github">
-    <img width="49.5%" src="https://streak-stats.demolab.com?user=jabalpureishan&theme=radical&card_width=495&type=png">		  
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&theme=radical&rank_icon=github">
+    <img width="52%" src="https://streak-stats.demolab.com?user=jabalpureishan&theme=radical&card_width=495&type=png">		  
   </a>
 </p>
 <br>
