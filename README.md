@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&theme=radical&rank_icon=github&hide=prs,contribs,issues) [![GitHub Streak](https://streak-stats.demolab.com?user=jabalpureishan&theme=radical&card_width=495&type=png)](https://git.io/streak-stats)
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics :
+
+<br/>
+<p align="left">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&theme=radical&rank_icon=github">
+    <img width="49.5%" src="https://streak-stats.demolab.com?user=jabalpureishan&theme=radical&card_width=495&type=png">		  
+  </a>
+</p>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&layout=Demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                     [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&layout=Demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
