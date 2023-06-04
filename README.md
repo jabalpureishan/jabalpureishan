@@ -50,7 +50,7 @@
 
 
 
-
+ 
 <a href="https://wakatime.com"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/62b14de3-85f8-4fb8-a8da-eec29bc26975.png" width="1000" height="550" style="border:10px solid"/></a>
 
 
