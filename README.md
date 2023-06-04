@@ -29,21 +29,27 @@
 
 <br/>
 <p align="left">
-  <a href="http://torrinleonard.com/">
+  <a href="https://www.leetcode.com/jabalpureishan">
+    <img width="55.5%" src="https://leetcard.jacoblin.cool/jabalpureishan?theme=dark&font=Cantarell&ext=heatmap">
+  <a href="https://codeforces.com/profile/jabalpureishan">
+    <img width="44%" src="https://raw.githubusercontent.com/jabalpureishan/cf-stats/main/output/light_card.svg#gh-dark-mode-only">		  
+  </a>
+</p>
+<br/>
+<p align="left">
+  <a href="https://github.com/jabalpureishan">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jabalpureishan&theme=radical">		  
   </a>
 </p>
 <br>
 <p align="center">
-  <a href="http://torrinleonard.com/">
+  <a href="https://wakatime.com/@jabalpureishan">
     <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&layout=donut&theme=radical">
     <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&theme=radical&include_all_commits=true&count_private=true&layout=compact">
 
   </a>
 </p>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/jabalpureishan?theme=dark&font=Cantarell&ext=heatmap)![](https://raw.githubusercontent.com/jabalpureishan/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jabalpureishan&theme=react-dark&layout=compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -51,7 +57,7 @@
 
 
  
-<a href="https://wakatime.com"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/62b14de3-85f8-4fb8-a8da-eec29bc26975.png" width="1000" height="550" style="border:10px solid"/></a>
+<a href="https://wakatime.com/@jabalpureishan"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/62b14de3-85f8-4fb8-a8da-eec29bc26975.png" width="1000" height="550" style="border:10px solid"/></a>
 
 
 <p align="center"><img src="https://profile-counter.glitch.me/{jabalpureishan}/count.svg"></p>
