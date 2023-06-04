@@ -43,7 +43,7 @@
   </a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jabalpureishan?theme=dark&font=Cantarell&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jabalpureishan?theme=dark&font=Cantarell&ext=heatmap)![](https://raw.githubusercontent.com/jabalpureishan/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jabalpureishan&theme=react-dark&layout=compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
