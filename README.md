@@ -43,7 +43,10 @@
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jabalpureishan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jabalpureishan?theme=dark&font=Cantarell&ext=heatmap)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jabalpureishan&theme=react-dark&layout=compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
