@@ -41,7 +41,7 @@
 <br/>
 <p align="left">
   <a href="https://github.com/jabalpureishan">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&theme=radical&rank_icon=github">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jabalpureishan&theme=radical">		  
   </a>
 </p>
