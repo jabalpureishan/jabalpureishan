@@ -21,7 +21,7 @@
 <a href="https://codeforces.com/profile/jabalpureishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jabalpureishan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jabalpureishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jabalpureishan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jabalpureishan7/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jabalpureishan7/practice" height="30" width="40" /></a>
- <a href="https://wakatime.com/@jabalpureishan" target="blank"><img align="center" src="https://github.com/jabalpureishan/jabalpureishan/blob/main/Logo%20%2B%20Text%20Horizontal.png" height="25" width="120" /></a>
+ <a href="https://wakatime.com/@jabalpureishan" target="blank"><img align="center" src="https://github.com/jabalpureishan/jabalpureishan/blob/main/Logo-120-inverted.png" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
