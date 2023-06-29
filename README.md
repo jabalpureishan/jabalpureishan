@@ -62,8 +62,11 @@
  
 <a href="https://wakatime.com/@jabalpureishan"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/62b14de3-85f8-4fb8-a8da-eec29bc26975.png" width="1000" height="550" style="border:10px solid"/></a>
 
+![](./profile-3d-contrib/profile-night-view.svg)
+
 
 <p align="center"><img src="https://profile-counter.glitch.me/{jabalpureishan}/count.svg"></p>
+
 <!--
 **jabalpureishan/jabalpureishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
