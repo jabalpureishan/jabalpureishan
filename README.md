@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/jabalpureishan/jabalpureishan/blob/main/giphygph(1).gif" width="40%"/>
 
-![](https://komarev.com/ghpvc/?username=jabalpureishan&color=blueviolet)   [![wakatime](https://wakatime.com/badge/user/c70fdce2-c8bc-46cf-b8bf-035136cb4535.svg)](https://wakatime.com/@c70fdce2-c8bc-46cf-b8bf-035136cb4535)
+![](https://komarev.com/ghpvc/?username=jabalpureishan&color=blueviolet)  [![wakatime](https://wakatime.com/badge/user/c70fdce2-c8bc-46cf-b8bf-035136cb4535.svg)](https://wakatime.com/@c70fdce2-c8bc-46cf-b8bf-035136cb4535)
 
 
 - 🌱 I’m currently learning **SQL, Django, CS Fundamentals**
@@ -42,7 +42,7 @@
 <p align="left">
   <a href="https://github.com/jabalpureishan">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&theme=radical&rank_icon=github">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jabalpureishan&theme=radical">		  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jabalpureishan&theme=radical" alt="jabalpureishan">	
   </a>
 </p>
 <br>
@@ -71,9 +71,9 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">  
   </a>
 </p>
-
+<!--
 <p align="center"><img src="https://profile-counter.glitch.me/{jabalpureishan}/count.svg"></p>
-
+-->
 <!--
 **jabalpureishan/jabalpureishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
