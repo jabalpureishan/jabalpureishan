@@ -65,6 +65,13 @@
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 
+<br/>
+<p align="center">
+  <a href="https://www.leetcode.com/jabalpureishan">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">  
+  </a>
+</p>
+
 <p align="center"><img src="https://profile-counter.glitch.me/{jabalpureishan}/count.svg"></p>
 
 <!--
