@@ -64,6 +64,12 @@
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
+<br>
+<p align="center">
+  <a href="https://wakatime.com/@jabalpureishan">
+    <img src="https://github.com/jabalpureishan/jabalpureishan/blob/output/github-contribution-grid-snake-dark.svg">
+  </a>
+</p>
 
 <br/>
 <p align="center">
@@ -71,6 +77,7 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">  
   </a>
 </p>
+
 <!--
 <p align="center"><img src="https://profile-counter.glitch.me/{jabalpureishan}/count.svg"></p>
 -->
