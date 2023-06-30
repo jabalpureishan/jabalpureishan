@@ -60,7 +60,7 @@
 
 
  
-<a href="https://wakatime.com/@jabalpureishan"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/62b14de3-85f8-4fb8-a8da-eec29bc26975.png" width="1000" height="550" style="border:10px solid"/></a>
+<a href="https://wakatime.com/@jabalpureishan"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/8b90a2ce-b354-4cd9-8d4c-13bc47b8ab8c.png" width="1000" height="550" style="border:10px solid"/></a>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
