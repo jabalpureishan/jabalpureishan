@@ -16,11 +16,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ishan-jabalpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-jabalpure" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ishanjabalpure" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ishanjabalpure" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ishanjabalpure" target="blank"><img align="center" src="https://github.com/jabalpureishan/jabalpureishan/blob/main/codechef.png" alt="ishanjabalpure" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/jabalpureishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jabalpureishan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jabalpureishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jabalpureishan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jabalpureishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jabalpureishan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jabalpureishan7/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jabalpureishan7/practice" height="30" width="40" /></a>
+<a href="https://wakatime.com/@jabalpureishan" target="blank"><img align="center" src="https://github.com/jabalpureishan/jabalpureishan/blob/main/Logo-120-inverted.png" alt="jabalpureishan7/practice" height="40" width="40" /></a>
 </p>
 
 
