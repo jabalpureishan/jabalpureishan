@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://wakatime.com/@jabalpureishan">
     <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&layout=donut&theme=radical">
-    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&theme=radical&include_all_commits=true&count_private=true&layout=compact">
+    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&theme=radical&include_all_commits=true&count_private=true&layout=donut">
 
   </a>
 </p>
