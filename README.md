@@ -10,7 +10,9 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 You can reach me using : **jabalpureishan7@gmail.com**
+- 📫 You can reach me using : [**Email**](mailto:jabalpureishan7@gmail.com)
+  
+- 🔭 You can view my resume [**Here**](https://drive.google.com/file/d/1K8O_-54mVEaXNbiZO3e15m_bltWHzP7S/view?usp=sharing)
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
