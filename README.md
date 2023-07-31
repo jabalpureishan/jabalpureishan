@@ -44,7 +44,7 @@
 <br/>
 <p align="left">
   <a href="https://github.com/jabalpureishan">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&theme=radical&rank_icon=github">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jabalpureishan&show_icons=true&locale=en&theme=radical&rank_icon=github">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jabalpureishan&theme=radical" alt="jabalpureishan">	
   </a>
 </p>
@@ -52,7 +52,7 @@
 <p align="center">
   <a href="https://wakatime.com/@jabalpureishan">
     <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jabalpureishan&layout=donut&theme=radical">
-    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabalpureishan&theme=radical&include_all_commits=true&count_private=true&layout=donut">
+    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabalpureishan&show_icons=true&locale=en&theme=radical&layout=donut">
 
   </a>
 </p>
