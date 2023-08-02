@@ -58,12 +58,12 @@
 </p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jabalpureishan&theme=react-dark&layout=compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jabalpureishan&theme=redical&layout=compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
- 
-<a href="https://wakatime.com/@jabalpureishan"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/8b90a2ce-b354-4cd9-8d4c-13bc47b8ab8c.png" width="1000" height="550" style="border:10px solid"/></a>
+<a href="https://wakatime.com"><img align="justify" src="https://wakatime.com/share/@jabalpureishan/eebf8506-43cd-420d-8069-ca84a8abad33.png" width="1000" height="550" style="border:10px solid" /></a> 
+
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
