@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Jabalpure</h1>
 <h3 align="center">A passionate Python developer, Competetive Coder from India</h3>
 
-<img align="right" src="https://github.com/jabalpureishan/jabalpureishan/blob/main/giphygph(1).gif" width="40%"/>
+<img align="right" src="https://i.pinimg.com/originals/3a/28/1d/3a281dd0cf5b4b85e112d555df6d5044.gif" width="350" height="450"/>
 
 ![](https://komarev.com/ghpvc/?username=jabalpureishan&color=blueviolet)  [![wakatime](https://wakatime.com/badge/user/c70fdce2-c8bc-46cf-b8bf-035136cb4535.svg)](https://wakatime.com/@c70fdce2-c8bc-46cf-b8bf-035136cb4535) [![Badge](https://cp-logo.vercel.app/codechef/ishanjabalpure)](https://www.codechef.com/users/ishanjabalpure) [![Badge](https://cp-logo.vercel.app/leetcode/jabalpureishan)](https://leetcode.com/jabalpureishan/)
 
