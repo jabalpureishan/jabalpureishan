@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jabalpureishan&color=blueviolet)  [![wakatime](https://wakatime.com/badge/user/c70fdce2-c8bc-46cf-b8bf-035136cb4535.svg)](https://wakatime.com/@c70fdce2-c8bc-46cf-b8bf-035136cb4535) [![Badge](https://cp-logo.vercel.app/codechef/ishanjabalpure)](https://www.codechef.com/users/ishanjabalpure) [![Badge](https://cp-logo.vercel.app/leetcode/jabalpureishan)](https://leetcode.com/jabalpureishan/)
 
-- 🌱 I’m currently learning **SQL, Django, CS Fundamentals**
+- 🌱 I’m currently learning **Gen AI, SQL, Django, CS Fundamentals**
 
 - 💬 Ask me about **Python**
 
